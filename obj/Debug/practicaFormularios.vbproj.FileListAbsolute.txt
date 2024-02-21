@@ -1,0 +1,17 @@
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\obj\Debug\practicaFormularios.vbproj.AssemblyReference.cache
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\obj\Debug\practicaFormularios.Form1.resources
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\obj\Debug\practicaFormularios.Resources.resources
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\obj\Debug\practicaFormularios.vbproj.GenerateResource.cache
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\obj\Debug\practicaFormularios.vbproj.CoreCompileInputs.cache
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\bin\Debug\practicaFormularios.exe.config
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\bin\Debug\practicaFormularios.exe
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\bin\Debug\practicaFormularios.pdb
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\bin\Debug\practicaFormularios.xml
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\obj\Debug\practicaFormularios.exe
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\obj\Debug\practicaFormularios.xml
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\obj\Debug\practicaFormularios.pdb
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\obj\Debug\practicaFormularios.SumaControl.resources
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\obj\Debug\practicaFormularios.DiferenciaControl.resources
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\obj\Debug\practicaFormularios.DivisionControl.resources
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\obj\Debug\practicaFormularios.PotenciaControl.resources
+J:\ARCHIVOS\dev\dotNet\practicaFormularios\obj\Debug\practicaFormularios.ProductoControl.resources

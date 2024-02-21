@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F751EE0E-888A-41CA-9256-6F063F5F45D1}|practicaFormularios.vbproj|j:\\archivos\\dev\\dotnet\\practicaformularios\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F751EE0E-888A-41CA-9256-6F063F5F45D1}|practicaFormularios.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F751EE0E-888A-41CA-9256-6F063F5F45D1}|practicaFormularios.vbproj|J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F751EE0E-888A-41CA-9256-6F063F5F45D1}|practicaFormularios.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F751EE0E-888A-41CA-9256-6F063F5F45D1}|practicaFormularios.vbproj|J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F751EE0E-888A-41CA-9256-6F063F5F45D1}|practicaFormularios.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F751EE0E-888A-41CA-9256-6F063F5F45D1}|practicaFormularios.vbproj|J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\potenciacontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F751EE0E-888A-41CA-9256-6F063F5F45D1}|practicaFormularios.vbproj|solutionrelative:potenciacontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F751EE0E-888A-41CA-9256-6F063F5F45D1}|practicaFormularios.vbproj|J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\potenciacontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F751EE0E-888A-41CA-9256-6F063F5F45D1}|practicaFormularios.vbproj|solutionrelative:potenciacontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F751EE0E-888A-41CA-9256-6F063F5F45D1}|practicaFormularios.vbproj|J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\diferenciacontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F751EE0E-888A-41CA-9256-6F063F5F45D1}|practicaFormularios.vbproj|solutionrelative:diferenciacontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F751EE0E-888A-41CA-9256-6F063F5F45D1}|practicaFormularios.vbproj|J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\divisioncontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F751EE0E-888A-41CA-9256-6F063F5F45D1}|practicaFormularios.vbproj|solutionrelative:divisioncontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-18T11:53:29.573Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-18T11:49:57.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-18T11:49:54.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PotenciaControl.vb",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\PotenciaControl.vb",
+              "RelativeDocumentMoniker": "PotenciaControl.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\PotenciaControl.vb",
+              "RelativeToolTip": "PotenciaControl.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-18T11:34:43.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiferenciaControl.vb",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\DiferenciaControl.vb",
+              "RelativeDocumentMoniker": "DiferenciaControl.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\DiferenciaControl.vb",
+              "RelativeToolTip": "DiferenciaControl.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-18T10:39:37.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PotenciaControl.vb [Design]",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\PotenciaControl.vb",
+              "RelativeDocumentMoniker": "PotenciaControl.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\PotenciaControl.vb [Design]",
+              "RelativeToolTip": "PotenciaControl.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-18T08:28:25.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DivisionControl.vb [Design]",
+              "DocumentMoniker": "J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\DivisionControl.vb",
+              "RelativeDocumentMoniker": "DivisionControl.vb",
+              "ToolTip": "J:\\ARCHIVOS\\dev\\dotNet\\practicaFormularios\\DivisionControl.vb [Design]",
+              "RelativeToolTip": "DivisionControl.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-18T08:25:41.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
